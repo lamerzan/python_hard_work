@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 from sys import argv
 print argv
 print argv + ['Nick',]
@@ -23,6 +24,8 @@ And you have a %r computer. Nice.
 """ %(likes, lives, computer)
 
 =======
+=======
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
 from sys import argv
 print argv
 print argv + ['Nick',]
@@ -46,4 +49,7 @@ You live in %r. Not sure where it is.
 And you have a %r computer. Nice.
 """ %(likes, lives, computer)
 
+<<<<<<< HEAD
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
+=======
 >>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 from sys import argv
 
 script, filename = argv
@@ -12,6 +13,8 @@ print open_file.close()
 
 
 =======
+=======
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
 from sys import argv
 
 script, filename = argv
@@ -24,4 +27,7 @@ print open_file.close()
 
 
 
+<<<<<<< HEAD
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
+=======
 >>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc

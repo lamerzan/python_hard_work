@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "You have %d cheeses!" % cheese_count
 	print "You have %d boxes of crackers!" % boxes_of_crackers
@@ -34,6 +35,8 @@ boys_and_girls(boys_in_party, girls_in_party)
 
 
 =======
+=======
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "You have %d cheeses!" % cheese_count
 	print "You have %d boxes of crackers!" % boxes_of_crackers
@@ -68,4 +71,7 @@ girls_in_party = raw_input('Type, how many girls we have: ')
 boys_and_girls(boys_in_party, girls_in_party)
 
 
+<<<<<<< HEAD
+>>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
+=======
 >>>>>>> 25d4598f734bce6b4a01b91180fd539d6f155bbc
